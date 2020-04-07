@@ -37,4 +37,10 @@ body{
 
 }
 
+.footer{
+  font-family: Arial, Helvetica, sans-serif;
+  background: rgb(185, 185, 185);
+  margin: 30px solid rgb(185, 185, 185);
+  padding: 30px solid rgb(185, 185, 185);
+}
 
